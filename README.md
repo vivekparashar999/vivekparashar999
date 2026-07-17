@@ -1,6 +1,6 @@
 # Hi, I'm Vivek Parashar
 
-B.Tech Electronics & Communication Engineering student at **Delhi Technological University** (2023–2027), CGPA 8.55/10.
+B.Tech Electronics & Communication Engineering student at **Delhi Technological University** (2023–2027), CGPA 8.658/10.
 
 I work mostly with data — Python, SQL and Power BI. Looking for **Data / Product Analyst** roles.
 
