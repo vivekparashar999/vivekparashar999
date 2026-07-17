@@ -21,8 +21,6 @@ I work mostly with data — Python, SQL and Power BI. Looking for **Data / Produ
 
 - **[Restaurant Analytics Dashboard](https://github.com/vivekparashar999/Restaurant-Analytics-Dashboard)** — Power BI dashboard tracking sales, ratings and performance trends with drill-downs. *Power BI, Power Query*
 
-- **[IPL Win Probability Predictor](https://github.com/vivekparashar999/ipl-win-probability-predictor)** — Logistic regression model predicting live win probability from ball-by-ball data (~78% accuracy), deployed as a web app. *Python, Scikit-learn, Streamlit*
-
 - **[Hospital ER Dashboard](https://github.com/vivekparashar999/hospital-er-excel-dashboard)** — Excel dashboard on 9,216 ER patient records with PivotTables, slicers and KPI cards.
 
 ## Certifications
